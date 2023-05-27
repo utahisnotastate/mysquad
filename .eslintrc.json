@@ -1,0 +1,4 @@
+{
+  "extends": ["hardcore"]
+  // Add the rest of your config here
+}
